@@ -34,7 +34,7 @@ Cloud security and operations are a **shared responsibility** between the cloud 
 
 ### Visual: Responsibility Model
 
-![Shared Responsibility Model](./shared-responsibility.jpg)
+![Shared Responsibility Model](.visuals/shared-responsibility.jpg)
 
 ---
 
