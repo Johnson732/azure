@@ -159,8 +159,8 @@ Predictability involves anticipating and managing both performance and costs:
 ## Real World
 visit:
 
-- https://lnkd.in/gniGze74  
-- https://lnkd.in/gbqKVvjx
+- https://datacenters.microsoft.com/globe/explore/datacenter/
+- https://datacenters.microsoft.com/globe/explore/?view=map
 
 ### benefits-of-using-azure
 
