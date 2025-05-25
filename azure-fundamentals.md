@@ -32,9 +32,6 @@ Cloud security and operations are a **shared responsibility** between the cloud 
 - **Network Infrastructure**  
   Core networking, DDoS protection, routing, and data center interconnectivity.
 
-### Visual: Responsibility Model
-
-![Shared Responsibility Model](./visuals/shared-responsibility.jpg)
 
 ---
 
@@ -105,3 +102,9 @@ Cloud security and operations are a **shared responsibility** between the cloud 
   - Multi-cloud workloads (AWS, GCP)
   - Kubernetes clusters
   - SQL Server instances
+
+---
+
+### Visual: Responsibility Model and Cloud Deployment Models
+
+![Shared Responsibility Model and Cloud Deployment Models](./visuals/shared-responsibility-and-cloud-deployment-models.jpg)
