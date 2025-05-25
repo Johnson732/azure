@@ -105,6 +105,64 @@ Cloud security and operations are a **shared responsibility** between the cloud 
 
 ---
 
-### Visual: Responsibility Model and Cloud Deployment Models
+### Responsibility Model and Cloud Deployment Models
 
 ![Shared Responsibility Model and Cloud Deployment Models](./visuals/shared-responsibility-and-cloud-deployment-models.jpg)
+
+
+---
+
+### Benefits of using Azure
+
+## Availability
+
+Availability refers to the percentage of time a service is accessible and operational for users. This is defined by the Service Level Agreement (SLA) for each Azure service, which guarantees a certain uptime.
+
+| SLA Uptime Percentage | Allowed Downtime per Month          |
+|----------------------|-----------------------------------|
+| 99% (two nines)      | Approximately 7 hours 18 minutes  |
+| 99.9% (three nines)   | Approximately 43 minutes 49 seconds |
+| 99.99% (four nines)   | Approximately 4 minutes 23 seconds |
+
+---
+
+## Reliability
+
+Reliability is the ability of a service to recover and continue functioning after failures or disasters. Azure achieves reliability by distributing its infrastructure geographically. If one region experiences an outage, other regions can take over to minimize disruption.
+
+---
+
+## Scalability
+
+Azure supports scaling in two ways to handle changing workload demands:
+
+- **Vertical Scaling**  
+  Increasing or decreasing the CPU, RAM, or other resources of an existing instance (scale up/down).
+
+- **Horizontal Scaling**  
+  Increasing or decreasing the number of instances or resources, such as virtual machines or containers (scale out/in).
+
+---
+
+## Predictability
+
+Predictability involves anticipating and managing both performance and costs:
+
+- **Performance Predictability**  
+  Using autoscaling, load balancing, and high availability features to ensure resources are available when needed.
+
+- **Cost Predictability**  
+  Monitoring and controlling expenses in real-time with tools like Azure Cost Management.
+
+---
+
+## Real World
+visit:
+
+- https://lnkd.in/gniGze74  
+- https://lnkd.in/gbqKVvjx
+
+### benefits-of-using-azure
+
+![benefits-of-using-azure](./visuals/benefits-of-using-azure.jpg)
+
